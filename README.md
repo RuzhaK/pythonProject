@@ -1,1 +1,1 @@
-# pythonProject These are excersizes from SoftUni Fundamentals Program
+# pythonProject These are excercises from SoftUni Fundamentals Program
